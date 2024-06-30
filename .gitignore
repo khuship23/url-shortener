@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Distribution folder
+dist/
+
+# Environment variables
+.env
+
+# Log files
+*.log
+
+# Nodemon config
+nodemon.json
+
+# TypeScript build info
+*.tsbuildinfo
+
+# IDE-specific files
+.vscode/
+.idea/
