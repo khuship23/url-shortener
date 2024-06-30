@@ -1,6 +1,7 @@
 import mongoose from "mongoose";
 import {nanoid} from "nanoid";
 
+//schema added
 const shortUrlSchema = new mongoose.Schema({
     fullUrl: {
         type: String,

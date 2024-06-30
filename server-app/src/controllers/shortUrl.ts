@@ -81,7 +81,7 @@ export const deleteUrl = async(
         });
         if(shortUrl){
 
-           res.status(200).send({"message": "Requested url deleted"})
+           res.status(200).send({"message": "Requested url is deleted"})
         }
             
         } catch (error) {
